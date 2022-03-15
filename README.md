@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KarolW47
 - 👀 I’m interested in coding 
-- 🌱 I’m currently learning java+spring+angular
+- 🌱 I’m currently learning java+spring+angular+jwt
 - 💞️ I’m looking to collaborate on project just for some exp
 - 📫 How to reach me Karollo47@gmail.com
 
